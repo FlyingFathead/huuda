@@ -57,5 +57,4 @@ This project is released under the "Go for it" license - meaning you're free to 
 
 # Acknowledgments
 
-Thank you to all contributors and users who have made Huuda a fun project to work on!
-Special thanks to ChaosWhisperer for code refactoring help 
+Thank you to all contributors and users who have made Huuda a fun project to work on! Special thanks to ChaosWhisperer for code refactoring help.
