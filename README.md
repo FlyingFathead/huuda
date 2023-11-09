@@ -53,7 +53,7 @@ Contributions to Huuda are welcome! Feel free to fork the repository, make your 
 
 # License
 
-This project is released under the "Go for it" license - meaning you're free to use, modify, and distribute it as you see fit. Enjoy!
+This project is freely available under the "Go for it" ethos, akin to The Unlicense or WTFPL. Use, modify, and distribute as you please. Enjoy!
 
 # Acknowledgments
 
