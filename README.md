@@ -41,7 +41,8 @@ python huuda.py --file yourfile.txt
 - Use list_converter.py to convert a list of sed-style replacement commands into the JSON format expected by Huuda.
 
 - Run word_adder.py to interactively add new word replacements to your JSON file.
-Contributing
+
+# Contributing
 
 Contributions to Huuda are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
 
