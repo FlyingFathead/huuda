@@ -17,7 +17,12 @@ To use Huuda, you need to have Python installed on your system as well as the fo
 - `sox` for audio processing.
 - `play` for audio playback.
 
-These tools are commonly available in UNIX-like environments.
+These tools are commonly available in UNIX-like environments. Ensure you have Python installed, then set up Huuda with:
+
+```bash
+# For Debian-based systems, use:
+sudo apt-get install festvox-suopuhe-lj festvox-suopuhe-mv sox play
+```
 
 ## Usage
 
