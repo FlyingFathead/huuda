@@ -1,6 +1,6 @@
 # Huuda
 
-Huuda is a command-line text-to-speech (TTS) utility designed to humorously twist spoken output by applying Finnish phonetics to English text, resulting in a "Finglish" accent. It's perfect for anyone looking for a light-hearted way to hear text read aloud, whether for entertainment, testing TTS engines, or just for the joy of hearing Finnish-inflected English.
+Huuda is a command-line text-to-speech (TTS) utility that not only speaks Finnish from input text or text files from the command line using the public domain `festvox` libraries, but is also designed to humorously twist spoken output by applying Finnish phonetics to English text, resulting in a "Finglish" accent. It's perfect for anyone looking for a light-hearted way to hear text read aloud, whether for entertainment, testing TTS engines, or just for the joy of hearing Finnish-inflected English.
 
 ## Features
 
