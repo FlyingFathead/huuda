@@ -1,4 +1,881 @@
 {
+    "": {
+        "replacement": "",
+        "case_insensitive": true
+    },
+    "the context": {
+        "replacement": "thö kóntökst",
+        "case_insensitive": true
+    },
+    "Your ": {
+        "replacement": "Júór ",
+        "case_insensitive": true
+    },
+    " obtain": {
+        "replacement": " óbtéín",
+        "case_insensitive": true
+    },
+    " feedback": {
+        "replacement": " fíídbäk",
+        "case_insensitive": true
+    },
+    " labeled": {
+        "replacement": " léíböld",
+        "case_insensitive": true
+    },
+    "supervised ": {
+        "replacement": "súpöváísd ",
+        "case_insensitive": true
+    },
+    "tremendous": {
+        "replacement": "tríméndös",
+        "case_insensitive": true
+    },
+    " word": {
+        "replacement": " wörd",
+        "case_insensitive": true
+    },
+    " provided": {
+        "replacement": " próúváidíd",
+        "case_insensitive": true
+    },
+    " feature": {
+        "replacement": " fjíítsýr",
+        "case_insensitive": true
+    },
+    "shared": {
+        "replacement": "shéörd",
+        "case_insensitive": true
+    },
+    "by default": {
+        "replacement": "báí dífóólt",
+        "case_insensitive": true
+    },
+    " a unique": {
+        "replacement": " éí jýníík",
+        "case_insensitive": true,
+        "global": true
+    },
+    " versatile": {
+        "replacement": " vörsátáíl",
+        "case_insensitive": true,
+        "global": true
+    },
+    "essentially": {
+        "replacement": "íséntsölí",
+        "case_insensitive": true,
+        "global": true
+    },
+    " feat": {
+        "replacement": " fíít",
+        "case_insensitive": true,
+        "global": true
+    },
+    " value": {
+        "replacement": " väljúú",
+        "case_insensitive": true,
+        "global": true
+    },
+    "dynamically": {
+        "replacement": "dáínämíkälí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "advice": {
+        "replacement": "ädváís",
+        "case_insensitive": true,
+        "global": true
+    },
+    "exciting": {
+        "replacement": "íksáítíng",
+        "case_insensitive": true,
+        "global": true
+    },
+    "flexible": {
+        "replacement": "fléksíböl",
+        "case_insensitive": true,
+        "global": true
+    },
+    "intriguing": {
+        "replacement": "íntríígíng",
+        "case_insensitive": true,
+        "global": true
+    },
+    " in a way": {
+        "replacement": " ín á wéí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "sentences": {
+        "replacement": "sénténsös",
+        "case_insensitive": true,
+        "global": true
+    },
+    "attacker": {
+        "replacement": "ätäkör",
+        "case_insensitive": true,
+        "global": true
+    },
+    "intended": {
+        "replacement": "ínthéndöd",
+        "case_insensitive": true,
+        "global": true
+    },
+    "pickle": {
+        "replacement": "píköl",
+        "case_insensitive": true,
+        "global": true
+    },
+    "implicating": {
+        "replacement": "ímplíkéítíng",
+        "case_insensitive": true,
+        "global": true
+    },
+    "meaning": {
+        "replacement": "mííníng",
+        "case_insensitive": true,
+        "global": true
+    },
+    "obfuscate": {
+        "replacement": "óbfjýskéít",
+        "case_insensitive": true,
+        "global": true
+    },
+    "library": {
+        "replacement": "láíbrärí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "malicious": {
+        "replacement": "málísös",
+        "case_insensitive": true,
+        "global": true
+    },
+    " noting": {
+        "replacement": "nóútíng",
+        "case_insensitive": true,
+        "global": true
+    },
+    "contact": {
+        "replacement": "kántäkt",
+        "case_insensitive": true,
+        "global": true
+    },
+    "centralize": {
+        "replacement": "séntráláísd",
+        "case_insensitive": true,
+        "global": true
+    },
+    "could’ve": {
+        "replacement": "kúdv",
+        "case_insensitive": true,
+        "global": true
+    },
+    "leak": {
+        "replacement": "líík",
+        "case_insensitive": true,
+        "global": true
+    },
+    " required ": {
+        "replacement": " rívkáíörd ",
+        "case_insensitive": true,
+        "global": true
+    },
+    "sharing": {
+        "replacement": "shéöríng",
+        "case_insensitive": true,
+        "global": true
+    },
+    " exposure": {
+        "replacement": "ékspóúsýr",
+        "case_insensitive": true,
+        "global": true
+    },
+    "guideline": {
+        "replacement": "gáídláín",
+        "case_insensitive": true,
+        "global": true
+    },
+    " following": {
+        "replacement": "fállówíng",
+        "case_insensitive": true,
+        "global": true
+    },
+    "permissions": {
+        "replacement": "pörmisöns",
+        "case_insensitive": true,
+        "global": true
+    },
+    " exposed": {
+        "replacement": " íkspóúsd",
+        "case_insensitive": true,
+        "global": true
+    },
+    " usage": {
+        "replacement": " jýýsídz",
+        "case_insensitive": true,
+        "global": true
+    },
+    "pipeline": {
+        "replacement": "páípláín",
+        "case_insensitive": true,
+        "global": true
+    },
+    "identity": {
+        "replacement": "áídéntítí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "recommended": {
+        "replacement": "ríkámméndéd",
+        "case_insensitive": true,
+        "global": true
+    },
+    "enabling": {
+        "replacement": "ínéíbölíng",
+        "case_insensitive": true,
+        "global": true
+    },
+    "client": {
+        "replacement": "kláíönt",
+        "case_insensitive": true,
+        "global": true
+    },
+    "revoke": {
+        "replacement": "rívóúk",
+        "case_insensitive": true,
+        "global": true
+    },
+    "security ": {
+        "replacement": "sékjúrítí ",
+        "case_insensitive": true,
+        "global": true
+    },
+    " maintain": {
+        "replacement": " méíntéín",
+        "case_insensitive": true,
+        "global": true
+    },
+    "rotating": {
+        "replacement": "róútéítíng",
+        "case_insensitive": true,
+        "global": true
+    },
+    "download": {
+        "replacement": "dáúnlóúd",
+        "case_insensitive": true,
+        "global": true
+    },
+    "elevation": {
+        "replacement": "élévéíssön",
+        "case_insensitive": true,
+        "global": true
+    },
+    " arbitrary": {
+        "replacement": " árbíträrí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "read-only": {
+        "replacement": "rííd-óúnlí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "sample": {
+        "replacement": "sämpöl",
+        "case_insensitive": true,
+        "global": true
+    },
+    "instructed": {
+        "replacement": "instráktíd",
+        "case_insensitive": true,
+        "global": true
+    },
+    "handle": {
+        "replacement": "händöl",
+        "case_insensitive": true,
+        "global": true
+    },
+    " they": {
+        "replacement": " théí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "Azure": {
+        "replacement": "Adzýr",
+        "case_insensitive": true,
+        "global": true
+    },
+    " 30": {
+        "replacement": "thöörtí",
+        "case_insensitive": true,
+        "global": true
+    },
+    " image": {
+        "replacement": " imídz",
+        "case_insensitive": true,
+        "global": true
+    },
+    " additional": {
+        "replacement": " ädisönäl",
+        "case_insensitive": true,
+        "global": true
+    },
+    "configured": {
+        "replacement": "kánfígörd",
+        "case_insensitive": true,
+        "global": true
+    },
+    "training ": {
+        "replacement": "tréíníng",
+        "case_insensitive": true,
+        "global": true
+    },
+    " data": {
+        "replacement": " déítá",
+        "case_insensitive": true,
+        "global": true
+    },
+    "documentation": {
+        "replacement": "dákjýméntéísön",
+        "case_insensitive": true,
+        "global": true
+    },
+    "microsoft": {
+        "replacement": "máíkrósáft",
+        "case_insensitive": true,
+        "global": true
+    },
+    " AI": {
+        "replacement": " ÉÍ ÁÍ",
+        "case_insensitive": false,
+        "global": true
+    },
+    "token": {
+        "replacement": "tóúkön",
+        "case_insensitive": true,
+        "global": true
+    },
+    "accidentally": {
+        "replacement": "äksídéntálí",
+        "case_insensitive": true,
+        "global": true
+    },
+    " Kelly": {
+        "replacement": " khéllí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "longer range": {
+        "replacement": "lóngö réínds",
+        "case_insensitive": true,
+        "global": true
+    },
+    "Poland": {
+        "replacement": "Póúländ",
+        "case_insensitive": true,
+        "global": true
+    },
+    "associated press": {
+        "replacement": "ässóúsíéítíd préss",
+        "case_insensitive": true,
+        "global": true
+    },
+    "nuclear": {
+        "replacement": "nýýklíör",
+        "case_insensitive": true,
+        "global": true
+    },
+    "missile": {
+        "replacement": "míssáíl",
+        "case_insensitive": true,
+        "global": true
+    },
+    "GDP": {
+        "replacement": "Gíí Díí Píí",
+        "case_insensitive": false,
+        "global": true
+    },
+    " earlier": {
+        "replacement": " öörlíör",
+        "case_insensitive": true,
+        "global": true
+    },
+    " firings": {
+        "replacement": "fáíríngs",
+        "case_insensitive": true,
+        "global": true
+    },
+    " flurry": {
+        "replacement": " flárrí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "contributing": {
+        "replacement": "kántríbjýtíng",
+        "case_insensitive": true,
+        "global": true
+    },
+    "outrage": {
+        "replacement": "áútréíds",
+        "case_insensitive": true,
+        "global": true
+    },
+    " ally": {
+        "replacement": "älláí",
+        "case_insensitive": true,
+        "global": true
+    },
+    " capability": {
+        "replacement": " kéípäbílítí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "fighter": {
+        "replacement": "fáítör",
+        "case_insensitive": true,
+        "global": true
+    },
+    "Kyiv": {
+        "replacement": "Khíív",
+        "case_insensitive": false,
+        "global": true
+    },
+    "the economy": {
+        "replacement": "thí íkánámí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "their position": {
+        "replacement": "téör posísön",
+        "case_insensitive": true,
+        "global": true
+    },
+    " both": {
+        "replacement": " bóúth",
+        "case_insensitive": true,
+        "global": true
+    },
+    "Russian": {
+        "replacement": "Ráshön",
+        "case_insensitive": true,
+        "global": true
+    },
+    "Moscow": {
+        "replacement": "Máskháú",
+        "case_insensitive": true,
+        "global": true
+    },
+    "ukraine": {
+        "replacement": "jýkréín",
+        "case_insensitive": true,
+        "global": true
+    },
+    "ukrainian": {
+        "replacement": "jýkréíníän",
+        "case_insensitive": true,
+        "global": true
+    },
+    "blockade": {
+        "replacement": "blákéíd",
+        "case_insensitive": true,
+        "global": true
+    },
+    "piloted": {
+        "replacement": "pháílótöd",
+        "case_insensitive": true,
+        "global": true
+    },
+    "soldier": {
+        "replacement": "sóldsör",
+        "case_insensitive": true,
+        "global": true
+    },
+    "scheduled": {
+        "replacement": "skédjýld",
+        "case_insensitive": true,
+        "global": true
+    },
+    "new approach": {
+        "replacement": "nýý ápróúts",
+        "case_insensitive": true,
+        "global": true
+    },
+    "purge": {
+        "replacement": "pörds",
+        "case_insensitive": true,
+        "global": true
+    },
+    "according to ": {
+        "replacement": "ákórdíng tú ",
+        "case_insensitive": true,
+        "global": true
+    },
+    "privacy policy": {
+        "replacement": "práíväsí pólísí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "grandfather": {
+        "replacement": "grändfátör",
+        "case_insensitive": true,
+        "global": true
+    },
+    "homicide": {
+        "replacement": "hámísáíd",
+        "case_insensitive": true,
+        "global": true
+    },
+    "cide": {
+        "replacement": "sáíd",
+        "case_insensitive": true,
+        "global": true
+    },
+    "this morning": {
+        "replacement": "tís móóníng",
+        "case_insensitive": true,
+        "global": true
+    },
+    "just another": {
+        "replacement": "zást ánádáh",
+        "case_insensitive": true,
+        "global": true
+    },
+    "audience": {
+        "replacement": "óódíöns",
+        "case_insensitive": true,
+        "global": true
+    },
+    "teenth ": {
+        "replacement": "tíínth",
+        "case_insensitive": true,
+        "global": true
+    },
+    " executive": {
+        "replacement": "eksékýtív",
+        "case_insensitive": true,
+        "global": true
+    },
+    "return to the": {
+        "replacement": "rítörn tú tö",
+        "case_insensitive": true,
+        "global": true
+    },
+    "dissipating": {
+        "replacement": "dísípéítíng",
+        "case_insensitive": true,
+        "global": true
+    },
+    "Steve Jobs": {
+        "replacement": "Stíív Záábs",
+        "case_insensitive": true,
+        "global": true
+    },
+    "pepper": {
+        "replacement": "phéphör",
+        "case_insensitive": true,
+        "global": true
+    },
+    " failing": {
+        "replacement": " féílíng",
+        "case_insensitive": true,
+        "global": true
+    },
+    " cook": {
+        "replacement": " khúúk",
+        "case_insensitive": true,
+        "global": true
+    },
+    "statement": {
+        "replacement": "stéítmént",
+        "case_insensitive": true,
+        "global": true
+    },
+    " morrow": {
+        "replacement": " móróúw",
+        "case_insensitive": true,
+        "global": true
+    },
+    "saved lives": {
+        "replacement": "séívd láívs",
+        "case_insensitive": true,
+        "global": true
+    },
+    "trickle": {
+        "replacement": "tríköl",
+        "case_insensitive": true,
+        "global": true
+    },
+    "sprinkle": {
+        "replacement": "sprínköl",
+        "case_insensitive": true,
+        "global": true
+    },
+    " situation": {
+        "replacement": " sítsýéísön",
+        "case_insensitive": true,
+        "global": true
+    },
+    " been": {
+        "replacement": " bíín",
+        "case_insensitive": true,
+        "global": true
+    },
+    "after these": {
+        "replacement": "äftö thíís",
+        "case_insensitive": true,
+        "global": true
+    },
+    "events": {
+        "replacement": "íívönts",
+        "case_insensitive": true,
+        "global": true
+    },
+    "prolific": {
+        "replacement": "prölífík",
+        "case_insensitive": true,
+        "global": true
+    },
+    "every other": {
+        "replacement": "evrí átör",
+        "case_insensitive": true,
+        "global": true
+    },
+    " demo": {
+        "replacement": " démóú",
+        "case_insensitive": true,
+        "global": true
+    },
+    "williams": {
+        "replacement": "wíljáms",
+        "case_insensitive": true,
+        "global": true
+    },
+    " save": {
+        "replacement": "séív",
+        "case_insensitive": true,
+        "global": true
+    },
+    " and thus": {
+        "replacement": "änd thás",
+        "case_insensitive": true,
+        "global": true
+    },
+    "these events": {
+        "replacement": "thíís ívönts",
+        "case_insensitive": true,
+        "global": true
+    },
+    "been a fan": {
+        "replacement": "bíín á fän",
+        "case_insensitive": true,
+        "global": true
+    },
+    " a lack": {
+        "replacement": "éí läk",
+        "case_insensitive": true,
+        "global": true
+    },
+    "jobs": {
+        "replacement": "tsábs",
+        "case_insensitive": true,
+        "global": true
+    },
+    "excitement": {
+        "replacement": "íksáítmént",
+        "case_insensitive": true,
+        "global": true
+    },
+    "cost": {
+        "replacement": "khást",
+        "case_insensitive": true,
+        "global": true
+    },
+    "revenue": {
+        "replacement": "révönjýý",
+        "case_insensitive": true,
+        "global": true
+    },
+    "purchasing": {
+        "replacement": "pörtsísíng",
+        "case_insensitive": true,
+        "global": true
+    },
+    "advertising": {
+        "replacement": "ädvötáísíng",
+        "case_insensitive": true,
+        "global": true
+    },
+    "migrate": {
+        "replacement": "máígréít",
+        "case_insensitive": true,
+        "global": true
+    },
+    "cinema": {
+        "replacement": "sínémá",
+        "case_insensitive": true,
+        "global": true
+    },
+    " not just": {
+        "replacement": " nát zást",
+        "case_insensitive": true,
+        "global": true
+    },
+    "have been": {
+        "replacement": "häv bíín",
+        "case_insensitive": true,
+        "global": true
+    },
+    "magazines": {
+        "replacement": "mägäsíns",
+        "case_insensitive": true,
+        "global": true
+    },
+    "biting": {
+        "replacement": "báítíng",
+        "case_insensitive": true,
+        "global": true
+    },
+    " era": {
+        "replacement": " írá",
+        "case_insensitive": true,
+        "global": true
+    },
+    "subscription": {
+        "replacement": "sábskrípsön",
+        "case_insensitive": true,
+        "global": true
+    },
+    " thou": {
+        "replacement": "tháú",
+        "case_insensitive": true,
+        "global": true
+    },
+    "thou ": {
+        "replacement": "tháú",
+        "case_insensitive": true,
+        "global": true
+    },
+    "years ago": {
+        "replacement": "jíörs ägóú",
+        "case_insensitive": true,
+        "global": true
+    },
+    " of me": {
+        "replacement": " óf míí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "messages": {
+        "replacement": "mésídsís",
+        "case_insensitive": true,
+        "global": true
+    },
+    "the case": {
+        "replacement": "tö kéís",
+        "case_insensitive": true,
+        "global": true
+    },
+    "i would": {
+        "replacement": "ái wúd",
+        "case_insensitive": true,
+        "global": true
+    },
+    "add a ": {
+        "replacement": "ädd éi ",
+        "case_insensitive": true,
+        "global": true
+    },
+    "overview": {
+        "replacement": "óúvörvjýý",
+        "case_insensitive": true,
+        "global": true
+    },
+    "readme": {
+        "replacement": "ríídmíí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "hello": {
+        "replacement": "helou",
+        "case_insensitive": true,
+        "global": true
+    },
+    " this": {
+        "replacement": " tíss",
+        "case_insensitive": true,
+        "global": true
+    },
+    "chatting": {
+        "replacement": "tsätíng",
+        "case_insensitive": true,
+        "global": true
+    },
+    "chatkeke": {
+        "replacement": "tsätkéké",
+        "case_insensitive": true,
+        "global": true
+    },
+    " your": {
+        "replacement": " jór",
+        "case_insensitive": true,
+        "global": true
+    },
+    "using a ": {
+        "replacement": "jýýsíng éí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "python": {
+        "replacement": "páíthón",
+        "case_insensitive": true,
+        "global": true
+    },
+    " alias": {
+        "replacement": " éílíäs",
+        "case_insensitive": true,
+        "global": true
+    },
+    "installation": {
+        "replacement": "instäléisön",
+        "case_insensitive": true,
+        "global": true
+    },
+    " rely": {
+        "replacement": " rílái",
+        "case_insensitive": true,
+        "global": true
+    },
+    "dependencies": {
+        "replacement": "dípéndénsíís",
+        "case_insensitive": true,
+        "global": true
+    },
+    "repository": {
+        "replacement": "rípósítörí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "repositry": {
+        "replacement": "rípósítrí",
+        "case_insensitive": true,
+        "global": true
+    },
+    "github": {
+        "replacement": "githab",
+        "case_insensitive": true,
+        "global": true
+    },
+    "that's": {
+        "replacement": "täts",
+        "case_insensitive": true,
+        "global": true
+    },
+    "a part": {
+        "replacement": "ei part",
+        "case_insensitive": true,
+        "global": true
+    },
     "embroiled": {
         "replacement": "ímbróíldt",
         "case_insensitive": true,
@@ -466,8 +1343,7 @@
     },
     "literally": {
         "replacement": "lítérälí",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "appealing": {
         "replacement": "äpíílíng",
@@ -765,7 +1641,7 @@
         "global": true
     },
     "opposite": {
-        "replacement": "ópósít",
+        "replacement": "äpósít",
         "case_insensitive": true,
         "global": true
     },
@@ -1211,8 +2087,7 @@
     },
     "creature": {
         "replacement": "kríítsör",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "Jason": {
         "replacement": "Tséísón",
@@ -1490,7 +2365,7 @@
         "global": true
     },
     "certainly": {
-        "replacement": "sértäínlí",
+        "replacement": "sörtänlí",
         "case_insensitive": true,
         "global": true
     },
@@ -1661,8 +2536,7 @@
     },
     "compatible": {
         "replacement": "kómpátíböl",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     " stage ": {
         "replacement": " stéíds ",
@@ -1795,9 +2669,8 @@
         "global": true
     },
     "choices": {
-        "replacement": "tsóísés",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "tsóísís",
+        "case_insensitive": true
     },
     " moment": {
         "replacement": " móúmönt",
@@ -1960,7 +2833,7 @@
         "global": true
     },
     "obviously": {
-        "replacement": "obviosli",
+        "replacement": "öbvíslí",
         "case_insensitive": true,
         "global": true
     },
@@ -2015,9 +2888,8 @@
         "global": true
     },
     "personally": {
-        "replacement": "phersönälí",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "pörsönälí",
+        "case_insensitive": true
     },
     "similarly": {
         "replacement": "símílärlí",
@@ -2495,9 +3367,8 @@
         "global": true
     },
     "for you": {
-        "replacement": "fór júú",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "fóór júú",
+        "case_insensitive": true
     },
     "exceptional": {
         "replacement": "íksépsönäl",
@@ -3121,8 +3992,7 @@
     },
     "choose": {
         "replacement": "tsúús",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "evident": {
         "replacement": "évídönt",
@@ -3220,9 +4090,8 @@
         "global": true
     },
     "legacy": {
-        "replacement": "légäsi",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "légäsí",
+        "case_insensitive": true
     },
     "chemicals": {
         "replacement": "khémikhäls",
@@ -3255,9 +4124,8 @@
         "global": true
     },
     "quite": {
-        "replacement": "kvait",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "kváít",
+        "case_insensitive": true
     },
     "assented": {
         "replacement": "ässéntíd",
@@ -3655,7 +4523,7 @@
         "global": true
     },
     "inevitable": {
-        "replacement": "inevitabööl",
+        "replacement": "ínévítäböl",
         "case_insensitive": true,
         "global": true
     },
@@ -4350,9 +5218,8 @@
         "global": true
     },
     " person": {
-        "replacement": " pörsón",
-        "case_insensitive": true,
-        "global": true
+        "replacement": " pöörsón",
+        "case_insensitive": true
     },
     " certain": {
         "replacement": "sörtán",
@@ -4665,7 +5532,7 @@
         "global": true
     },
     "actually": {
-        "replacement": "äksyälí",
+        "replacement": "äksylí",
         "case_insensitive": true,
         "global": true
     },
@@ -5111,8 +5978,7 @@
     },
     "snake": {
         "replacement": "snéík",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "behaving": {
         "replacement": "bíhéívíng",
@@ -6675,14 +7541,13 @@
         "global": true
     },
     "collapse": {
-        "replacement": "kóllääps",
+        "replacement": "kólläps",
         "case_insensitive": true,
         "global": true
     },
     "journey": {
         "replacement": "tsöörní",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "testimony": {
         "replacement": "téstímóúní",
@@ -7005,9 +7870,8 @@
         "global": true
     },
     "impossible": {
-        "replacement": "ímpóssíböl",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "ímpósiböl",
+        "case_insensitive": true
     },
     " baffle": {
         "replacement": " bäfföl",
@@ -7196,8 +8060,7 @@
     },
     "species": {
         "replacement": "spíísíís",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "supervision": {
         "replacement": "súpörvísön",
@@ -7896,8 +8759,7 @@
     },
     "biography": {
         "replacement": "báíógräfí",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "tightness": {
         "replacement": "táíghtnéss",
@@ -8350,9 +9212,8 @@
         "global": true
     },
     "privacy": {
-        "replacement": "práívásí",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "práíväsí",
+        "case_insensitive": true
     },
     "notorities": {
         "replacement": "nótórítíís",
@@ -8426,8 +9287,7 @@
     },
     "heavily": {
         "replacement": "hévílí",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "colony": {
         "replacement": "kólóní",
@@ -8700,9 +9560,8 @@
         "global": true
     },
     "naturally": {
-        "replacement": "nätsýrälí",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "nätsyrälí",
+        "case_insensitive": true
     },
     "removed": {
         "replacement": "rímúúvd",
@@ -9280,9 +10139,8 @@
         "global": true
     },
     " yet ": {
-        "replacement": " yét ",
-        "case_insensitive": true,
-        "global": true
+        "replacement": " jét ",
+        "case_insensitive": true
     },
     " ounces": {
         "replacement": " áúnssís",
@@ -10220,9 +11078,8 @@
         "global": true
     },
     " against ": {
-        "replacement": " ägénst ",
-        "case_insensitive": true,
-        "global": true
+        "replacement": " ägéínst",
+        "case_insensitive": true
     },
     " age ": {
         "replacement": " éíds ",
@@ -10280,7 +11137,7 @@
         "global": true
     },
     " animal ": {
-        "replacement": " änimál ",
+        "replacement": " änimol ",
         "case_insensitive": true,
         "global": true
     },
@@ -12260,7 +13117,7 @@
         "global": true
     },
     " learn ": {
-        "replacement": " löörn ",
+        "replacement": " lörn ",
         "case_insensitive": true,
         "global": true
     },
@@ -13245,9 +14102,8 @@
         "global": true
     },
     " quite ": {
-        "replacement": " qúít ",
-        "case_insensitive": true,
-        "global": true
+        "replacement": " kváít ",
+        "case_insensitive": true
     },
     " quotient ": {
         "replacement": " qúótíönt ",
@@ -14480,9 +15336,8 @@
         "global": true
     },
     " use ": {
-        "replacement": " jýýs ",
-        "case_insensitive": true,
-        "global": true
+        "replacement": " júús ",
+        "case_insensitive": true
     },
     " usual ": {
         "replacement": " jýýsúál ",
@@ -14900,9 +15755,8 @@
         "global": true
     },
     "connection": {
-        "replacement": "könéksön",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "kónéksön",
+        "case_insensitive": true
     },
     "curtain": {
         "replacement": "körtán",
@@ -15955,7 +16809,7 @@
         "global": true
     },
     "perhaps": {
-        "replacement": "pörhäps",
+        "replacement": "pöhäps",
         "case_insensitive": true,
         "global": true
     },
@@ -16290,7 +17144,7 @@
         "global": true
     },
     "available": {
-        "replacement": "ävéíláböl",
+        "replacement": "ävéíläböl",
         "case_insensitive": true,
         "global": true
     },
@@ -16455,9 +17309,8 @@
         "global": true
     },
     "unfortunately": {
-        "replacement": "ánfórtsúnátlí",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "ánfórtsúnätlí",
+        "case_insensitive": true
     },
     "healthcare": {
         "replacement": "hélthkéör",
@@ -17825,9 +18678,8 @@
         "global": true
     },
     "super": {
-        "replacement": "supör",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "súpér",
+        "case_insensitive": true
     },
     "becoming": {
         "replacement": "bíkámíng",
@@ -18461,8 +19313,7 @@
     },
     "early": {
         "replacement": "öörlí",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "our ": {
         "replacement": "aúör ",
@@ -18906,8 +19757,7 @@
     },
     "briefly": {
         "replacement": "brííflí",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "brief": {
         "replacement": "brííf",
@@ -19045,9 +19895,8 @@
         "global": true
     },
     "another ": {
-        "replacement": "ánáthör ",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "ánátör ",
+        "case_insensitive": true
     },
     "erupted": {
         "replacement": "íráptéd",
@@ -21865,9 +22714,8 @@
         "global": true
     },
     "scarce": {
-        "replacement": "skháárs",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "skheörs",
+        "case_insensitive": true
     },
     "reservoir": {
         "replacement": "résörvóár",
@@ -22020,9 +22868,8 @@
         "global": true
     },
     "without": {
-        "replacement": "vítháút",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "wítaút",
+        "case_insensitive": true
     },
     "guacamole": {
         "replacement": "gúákámóúlí",
@@ -22535,9 +23382,8 @@
         "global": true
     },
     "recently": {
-        "replacement": "ríséntlí",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "rííséntlí",
+        "case_insensitive": true
     },
     "VP9 ": {
         "replacement": "VííPíí NáíN ",
@@ -22704,7 +23550,7 @@
         "case_insensitive": true,
         "global": true
     },
-    "try": {
+    " try": {
         "replacement": " tráí",
         "case_insensitive": true,
         "global": true
@@ -22725,9 +23571,8 @@
         "global": true
     },
     "mobile": {
-        "replacement": "mobiil",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "móúbáíl",
+        "case_insensitive": true
     },
     "prefer": {
         "replacement": "príför",
@@ -22795,9 +23640,8 @@
         "global": true
     },
     "another": {
-        "replacement": "anathöor",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "ánátör",
+        "case_insensitive": true
     },
     "vice": {
         "replacement": "váís",
@@ -23180,7 +24024,7 @@
         "global": true
     },
     "specific": {
-        "replacement": "spésífík",
+        "replacement": "spísífík",
         "case_insensitive": true,
         "global": true
     },
@@ -23935,7 +24779,7 @@
         "global": true
     },
     "international": {
-        "replacement": "intérnäsónál",
+        "replacement": "intérnáshónál",
         "case_insensitive": true,
         "global": true
     },
@@ -23960,14 +24804,13 @@
         "global": true
     },
     "constant": {
-        "replacement": "kónstänt",
+        "replacement": "kánstänt",
         "case_insensitive": true,
         "global": true
     },
     "email": {
         "replacement": "ííméíl",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "modified": {
         "replacement": "módífáíd",
@@ -24810,9 +25653,8 @@
         "global": true
     },
     "methane": {
-        "replacement": "míthéín",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "méthéín",
+        "case_insensitive": true
     },
     "tased": {
         "replacement": "téísd",
@@ -30315,9 +31157,8 @@
         "global": true
     },
     "dealer": {
-        "replacement": "díílör",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "díílér",
+        "case_insensitive": true
     },
     "dean": {
         "replacement": "diin",
@@ -31205,9 +32046,8 @@
         "global": true
     },
     "Edward": {
-        "replacement": "Edwoord",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "Édwörd",
+        "case_insensitive": true
     },
     "eed's ": {
         "replacement": "iid's ",
@@ -31391,8 +32231,7 @@
     },
     "energy": {
         "replacement": "énérdsí",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "enforce": {
         "replacement": "infoors",
@@ -32085,9 +32924,8 @@
         "global": true
     },
     "fine": {
-        "replacement": "fain",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "fáín",
+        "case_insensitive": true
     },
     "finer": {
         "replacement": "fainör",
@@ -33336,8 +34174,7 @@
     },
     "horse": {
         "replacement": "hórs",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "horses": {
         "replacement": "hórsíís",
@@ -33396,8 +34233,7 @@
     },
     "human": {
         "replacement": "hjýmän",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "hundred": {
         "replacement": "handred",
@@ -33521,8 +34357,7 @@
     },
     "imagine": {
         "replacement": "ímädsín",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "I’m ": {
         "replacement": "áíöm ",
@@ -33816,8 +34651,7 @@
     },
     "intelligence": {
         "replacement": "íntélídséns",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "interfere": {
         "replacement": "íntörfíör",
@@ -34046,8 +34880,7 @@
     },
     "japanese": {
         "replacement": "tsäpäníís",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "Japan": {
         "replacement": "Tsápän",
@@ -34120,9 +34953,8 @@
         "global": true
     },
     "job": {
-        "replacement": "tsób",
-        "case_insensitive": false,
-        "global": true
+        "replacement": "tsóób",
+        "case_insensitive": true
     },
     "John ": {
         "replacement": "Dsoon ",
@@ -35716,8 +36548,7 @@
     },
     "native": {
         "replacement": "néítív",
-        "case_insensitive": true,
-        "global": true
+        "case_insensitive": true
     },
     "natural": {
         "replacement": "nätsúrál",
@@ -36265,9 +37096,8 @@
         "global": true
     },
     "over": {
-        "replacement": "öuver",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "óúvér",
+        "case_insensitive": true
     },
     "overturned": {
         "replacement": "ouvörtörnd",
@@ -41220,7 +42050,7 @@
         "global": true
     },
     "you": {
-        "replacement": "Jýý",
+        "replacement": "Júú",
         "case_insensitive": true,
         "global": true
     },
@@ -41310,9 +42140,8 @@
         "global": true
     },
     "alien": {
-        "replacement": "éílíen",
-        "case_insensitive": true,
-        "global": true
+        "replacement": "éílíén",
+        "case_insensitive": true
     },
     "olísm": {
         "replacement": "óúlísm",
@@ -41428,5 +42257,861 @@
         "replacement": " dí-",
         "case_insensitive": true,
         "global": true
+    },
+    "enjoyer": {
+        "replacement": "íntsóíör",
+        "case_insensitive": true
+    },
+    "insufferable": {
+        "replacement": "ínsáfföráböl",
+        "case_insensitive": true
+    },
+    "unexciting": {
+        "replacement": "áníksáítíng",
+        "case_insensitive": true
+    },
+    " TTS": {
+        "replacement": " Thíí Thíí És",
+        "case_insensitive": true
+    },
+    "So,": {
+        "replacement": "Sóú, ",
+        "case_insensitive": true
+    },
+    "occurrence": {
+        "replacement": "ókýräns",
+        "case_insensitive": true
+    },
+    "provided": {
+        "replacement": "próúváídíd",
+        "case_insensitive": true
+    },
+    " the current": {
+        "replacement": "thö kjýrént",
+        "case_insensitive": true
+    },
+    "occurrences": {
+        "replacement": "ókjýrénsís",
+        "case_insensitive": true
+    },
+    " feature ": {
+        "replacement": " fjíítsýr ",
+        "case_insensitive": true
+    },
+    "supervised": {
+        "replacement": "súpérváísd",
+        "case_insensitive": true
+    },
+    "hypothesis": {
+        "replacement": "háípóthösis",
+        "case_insensitive": true
+    },
+    " proven": {
+        "replacement": " prúvén",
+        "case_insensitive": true
+    },
+    "human-level": {
+        "replacement": "hjýmän-lévöl",
+        "case_insensitive": true
+    },
+    "Jim": {
+        "replacement": "Tsím",
+        "case_insensitive": true
+    },
+    "snack": {
+        "replacement": "snäk",
+        "case_insensitive": true
+    },
+    "sneak": {
+        "replacement": "sníík",
+        "case_insensitive": true
+    },
+    "sneaky": {
+        "replacement": "snííkí",
+        "case_insensitive": true
+    },
+    "zen": {
+        "replacement": "tsén",
+        "case_insensitive": true
+    },
+    "Apple TV": {
+        "replacement": "Äpöl TííVíí",
+        "case_insensitive": true
+    },
+    " TV": {
+        "replacement": " TííVíí",
+        "case_insensitive": true
+    },
+    "models": {
+        "replacement": "módöls",
+        "case_insensitive": true
+    },
+    "languages": {
+        "replacement": "längvítsíís",
+        "case_insensitive": true
+    },
+    "permanence": {
+        "replacement": "pöörmänéns",
+        "case_insensitive": true
+    },
+    "remained": {
+        "replacement": "ríméínd",
+        "case_insensitive": true
+    },
+    "observation": {
+        "replacement": "óbsövéísön",
+        "case_insensitive": true
+    },
+    "dark matter": {
+        "replacement": "dáák mätö",
+        "case_insensitive": true
+    },
+    "labeled": {
+        "replacement": "léíböld",
+        "case_insensitive": true
+    },
+    "error": {
+        "replacement": "érör",
+        "case_insensitive": true
+    },
+    "generalized": {
+        "replacement": "dsénéráláísd",
+        "case_insensitive": true
+    },
+    "nuanced": {
+        "replacement": "nüänsd",
+        "case_insensitive": true
+    },
+    "paradigm": {
+        "replacement": "pärädáím",
+        "case_insensitive": true
+    },
+    "proven": {
+        "replacement": "prúvön",
+        "case_insensitive": true
+    },
+    " glean": {
+        "replacement": " glíín",
+        "case_insensitive": true
+    },
+    "common sense": {
+        "replacement": "kómón séns",
+        "case_insensitive": true
+    },
+    "we believe": {
+        "replacement": "wíí bílíív",
+        "case_insensitive": true
+    },
+    "obtains": {
+        "replacement": "óbtéíns",
+        "case_insensitive": true
+    },
+    "property": {
+        "replacement": "prápértí",
+        "case_insensitive": true
+    },
+    "hidden": {
+        "replacement": "hídön",
+        "case_insensitive": true
+    },
+    "feedback": {
+        "replacement": "fíídbäk",
+        "case_insensitive": true
+    },
+    " NLP": {
+        "replacement": " ÈN ÈL PÌÌ",
+        "case_insensitive": true
+    },
+    "dialect": {
+        "replacement": "dáíalékt",
+        "case_insensitive": true
+    },
+    "multilingual": {
+        "replacement": "máltáílíngvál",
+        "case_insensitive": true
+    },
+    "bilingual": {
+        "replacement": "bílíngvál",
+        "case_insensitive": true
+    },
+    "palpable": {
+        "replacement": "pälpäböl",
+        "case_insensitive": true
+    },
+    "stimulating": {
+        "replacement": "stímýléítíng",
+        "case_insensitive": true
+    },
+    "far-reaching": {
+        "replacement": "fáár-ríítsíng",
+        "case_insensitive": true
+    },
+    "what's the": {
+        "replacement": "wáts tö",
+        "case_insensitive": true
+    },
+    "enthusiasm": {
+        "replacement": "ínthúúsíäsm",
+        "case_insensitive": true
+    },
+    "inspiring": {
+        "replacement": "ínspáiöríng",
+        "case_insensitive": true
+    },
+    " quite": {
+        "replacement": " kváít",
+        "case_insensitive": true
+    },
+    " further": {
+        "replacement": " föörthör",
+        "case_insensitive": true
+    },
+    "further": {
+        "replacement": "föörtör",
+        "case_insensitive": true
+    },
+    "integrating": {
+        "replacement": "íntögréítíng",
+        "case_insensitive": true
+    },
+    " aims": {
+        "replacement": " éíms",
+        "case_insensitive": true
+    },
+    " quite the ": {
+        "replacement": " kváít thö ",
+        "case_insensitive": true
+    },
+    "convergence": {
+        "replacement": "kónvöördsöns",
+        "case_insensitive": true
+    },
+    "quite a journey": {
+        "replacement": "kváít éí tsöörni",
+        "case_insensitive": true
+    },
+    "endeavor": {
+        "replacement": "éndewör",
+        "case_insensitive": true
+    },
+    "tell me": {
+        "replacement": "téll míí",
+        "case_insensitive": true
+    },
+    "decipher": {
+        "replacement": "dísáíphör",
+        "case_insensitive": true
+    },
+    " I'm ": {
+        "replacement": " aím ",
+        "case_insensitive": true
+    },
+    " like to know": {
+        "replacement": " láík tú nóúw",
+        "case_insensitive": true
+    },
+    " asking": {
+        "replacement": " ääskíng",
+        "case_insensitive": true
+    },
+    "in theory": {
+        "replacement": "ín thiörí",
+        "case_insensitive": true
+    },
+    " flaws": {
+        "replacement": " flóóws",
+        "case_insensitive": true
+    },
+    " generates": {
+        "replacement": " dsénéréíts",
+        "case_insensitive": true
+    },
+    " scraped": {
+        "replacement": " skréípd",
+        "case_insensitive": true
+    },
+    " model": {
+        "replacement": " módöl",
+        "case_insensitive": true
+    },
+    "tricky": {
+        "replacement": "tríkí",
+        "case_insensitive": true
+    },
+    "watering": {
+        "replacement": "wátöríng",
+        "case_insensitive": true
+    },
+    " risky ": {
+        "replacement": " rískí ",
+        "case_insensitive": true
+    },
+    "risky": {
+        "replacement": "rískí",
+        "case_insensitive": true
+    },
+    "38": {
+        "replacement": "thöörtíéíght",
+        "case_insensitive": true
+    },
+    "by definition": {
+        "replacement": "báí défínísön",
+        "case_insensitive": true
+    },
+    "firstly": {
+        "replacement": "föörstlí",
+        "case_insensitive": true
+    },
+    "fine tune": {
+        "replacement": "fáín túún",
+        "case_insensitive": true
+    },
+    "isn’t": {
+        "replacement": "ísönt",
+        "case_insensitive": true
+    },
+    "the default": {
+        "replacement": "tö dífóólt",
+        "case_insensitive": true
+    },
+    "payoff": {
+        "replacement": "péíóóff",
+        "case_insensitive": true
+    },
+    " GPT": {
+        "replacement": " Dzíí Píí Tíí",
+        "case_insensitive": true
+    },
+    "remember": {
+        "replacement": "rímémbör",
+        "case_insensitive": true
+    },
+    "quantity": {
+        "replacement": "kvántítí",
+        "case_insensitive": true
+    },
+    "remember,": {
+        "replacement": "rímembör,",
+        "case_insensitive": true
+    },
+    "would be no": {
+        "replacement": "wúd bíí nóú",
+        "case_insensitive": true
+    },
+    "based on human": {
+        "replacement": "béísd ón hjýmän",
+        "case_insensitive": true
+    },
+    "effective": {
+        "replacement": "íféktív",
+        "case_insensitive": true
+    },
+    "could be": {
+        "replacement": "kúd bíí",
+        "case_insensitive": true
+    },
+    "prompting": {
+        "replacement": "prámptíng",
+        "case_insensitive": true
+    },
+    "in order to know": {
+        "replacement": "ín óódö tú nóúw",
+        "case_insensitive": true
+    },
+    "targeted": {
+        "replacement": "tárgötöd",
+        "case_insensitive": true
+    },
+    " a new ": {
+        "replacement": " éí nýýw ",
+        "case_insensitive": true
+    },
+    "commented": {
+        "replacement": "kóméntíd",
+        "case_insensitive": true
+    },
+    "a good": {
+        "replacement": "á gúúd",
+        "case_insensitive": true
+    },
+    "most fun": {
+        "replacement": "móúst fán",
+        "case_insensitive": true
+    },
+    " via ": {
+        "replacement": " váíá ",
+        "case_insensitive": true
+    },
+    "I hope": {
+        "replacement": "Áí hóúp",
+        "case_insensitive": true
+    },
+    "half": {
+        "replacement": "hälf",
+        "case_insensitive": true
+    },
+    "half-elf": {
+        "replacement": "hälf-élf",
+        "case_insensitive": true
+    },
+    "variant": {
+        "replacement": "väríänt",
+        "case_insensitive": true
+    },
+    " shed": {
+        "replacement": " shéd",
+        "case_insensitive": true
+    },
+    "comparable": {
+        "replacement": "kómpáráböl",
+        "case_insensitive": true
+    },
+    "hippos": {
+        "replacement": "híppóús",
+        "case_insensitive": true
+    },
+    "african": {
+        "replacement": "äfríkän",
+        "case_insensitive": true
+    },
+    "occurred": {
+        "replacement": "okkjýýrd",
+        "case_insensitive": true
+    },
+    "timing": {
+        "replacement": "táímíng",
+        "case_insensitive": true
+    },
+    "ecosystem": {
+        "replacement": "íchóúsístöm",
+        "case_insensitive": true
+    },
+    "these changes": {
+        "replacement": "thíís tséindsés",
+        "case_insensitive": true
+    },
+    "gmail": {
+        "replacement": "dsííméíl",
+        "case_insensitive": true
+    },
+    "search": {
+        "replacement": "söörts",
+        "case_insensitive": true
+    },
+    "HTML": {
+        "replacement": "éitsh tíí ém él",
+        "case_insensitive": true
+    },
+    "web browser": {
+        "replacement": "wéb bráúsér",
+        "case_insensitive": true
+    },
+    "your app": {
+        "replacement": "jóór äpp",
+        "case_insensitive": true
+    },
+    " app ": {
+        "replacement": " äpp ",
+        "case_insensitive": true
+    },
+    " API": {
+        "replacement": " Èí Píí Àí",
+        "case_insensitive": true
+    },
+    "third-party": {
+        "replacement": "thöörd-páártí",
+        "case_insensitive": true
+    },
+    "/": {
+        "replacement": " slash ",
+        "case_insensitive": true
+    },
+    " bake": {
+        "replacement": " béík",
+        "case_insensitive": true
+    },
+    "distribute": {
+        "replacement": "dístríbjýýt",
+        "case_insensitive": true
+    },
+    "bundled": {
+        "replacement": "bándöld",
+        "case_insensitive": true
+    },
+    "iPhone": {
+        "replacement": "áíPhóún",
+        "case_insensitive": true
+    },
+    " mail ": {
+        "replacement": " méíl ",
+        "case_insensitive": true
+    },
+    "domain": {
+        "replacement": "dóúméín",
+        "case_insensitive": true
+    },
+    "cutting down": {
+        "replacement": "kátíng dáún",
+        "case_insensitive": true
+    },
+    "friendly": {
+        "replacement": "fréndlí",
+        "case_insensitive": true
+    },
+    "iCloud": {
+        "replacement": "áíKláúd",
+        "case_insensitive": true
+    },
+    "margin": {
+        "replacement": "márdsín",
+        "case_insensitive": true
+    },
+    "pretty good": {
+        "replacement": "prítí gúúd",
+        "case_insensitive": true
+    },
+    "the messages": {
+        "replacement": "thö mésídsíís",
+        "case_insensitive": true
+    },
+    " 3G ": {
+        "replacement": "Thríí Dsíí",
+        "case_insensitive": true
+    },
+    "anecdote": {
+        "replacement": "änékdóút",
+        "case_insensitive": true
+    },
+    "mailserver": {
+        "replacement": "méílsérvör",
+        "case_insensitive": true
+    },
+    "quite a bit": {
+        "replacement": "kváít á bít",
+        "case_insensitive": true
+    },
+    "unexpected": {
+        "replacement": "áníkspéktéd",
+        "case_insensitive": true
+    },
+    "wow": {
+        "replacement": "wáúw",
+        "case_insensitive": true
+    },
+    "_": {
+        "replacement": "ándérskóór",
+        "case_insensitive": true
+    },
+    " user": {
+        "replacement": " júsér",
+        "case_insensitive": true
+    },
+    "[": {
+        "replacement": "léft bräkét",
+        "case_insensitive": true
+    },
+    "]": {
+        "replacement": "ráíght bräkét",
+        "case_insensitive": true
+    },
+    "bacon": {
+        "replacement": "béíkón",
+        "case_insensitive": true
+    },
+    "beacon": {
+        "replacement": "bííkón",
+        "case_insensitive": true
+    },
+    "beak": {
+        "replacement": "bíík",
+        "case_insensitive": true
+    },
+    "whichever": {
+        "replacement": "whitsévér",
+        "case_insensitive": true
+    },
+    "plaintext": {
+        "replacement": "pléíntékst",
+        "case_insensitive": true
+    },
+    "and/or": {
+        "replacement": "änd óór",
+        "case_insensitive": true
+    },
+    " CTO": {
+        "replacement": "síí tíí óú",
+        "case_insensitive": true
+    },
+    "me": {
+        "replacement": "míí",
+        "case_insensitive": true
+    },
+    "me,": {
+        "replacement": "míí,",
+        "case_insensitive": true
+    },
+    "I think": {
+        "replacement": "àí tínk",
+        "case_insensitive": true
+    },
+    "reference": {
+        "replacement": "réföréns",
+        "case_insensitive": true
+    },
+    "I'm": {
+        "replacement": "Áím",
+        "case_insensitive": true
+    },
+    "I'm surprised": {
+        "replacement": "Áím sörpráísd",
+        "case_insensitive": true
+    },
+    "low-powered": {
+        "replacement": "löüw-päüwörd",
+        "case_insensitive": true
+    },
+    "smartphone": {
+        "replacement": "smártfóún",
+        "case_insensitive": true
+    },
+    "penetration": {
+        "replacement": "pénétréíssón",
+        "case_insensitive": true
+    },
+    "smart phone": {
+        "replacement": "smárt fóún",
+        "case_insensitive": true
+    },
+    "German": {
+        "replacement": "Dsörmán",
+        "case_insensitive": true
+    },
+    "contract": {
+        "replacement": "kánträkt",
+        "case_insensitive": true
+    },
+    "conditions": {
+        "replacement": "kándísöns",
+        "case_insensitive": true
+    },
+    "afford": {
+        "replacement": "äfórd",
+        "case_insensitive": true
+    },
+    "overall": {
+        "replacement": "óúvéróól",
+        "case_insensitive": true
+    },
+    "java": {
+        "replacement": "jävá",
+        "case_insensitive": true
+    },
+    "villain": {
+        "replacement": "víllän",
+        "case_insensitive": true
+    },
+    "memory": {
+        "replacement": "mémörí",
+        "case_insensitive": true
+    },
+    " memory": {
+        "replacement": " mémörí",
+        "case_insensitive": true
+    },
+    "repairing": {
+        "replacement": "rípéöríng",
+        "case_insensitive": true
+    },
+    "locked on": {
+        "replacement": "láckd óón",
+        "case_insensitive": true
+    },
+    " mutt": {
+        "replacement": " mátt",
+        "case_insensitive": true
+    },
+    "pine": {
+        "replacement": "páín",
+        "case_insensitive": true
+    },
+    "to know": {
+        "replacement": "tü nöüw",
+        "case_insensitive": true
+    },
+    "nowadays": {
+        "replacement": "naüwádëis",
+        "case_insensitive": true
+    },
+    "comic sans": {
+        "replacement": "khámík säns",
+        "case_insensitive": true
+    },
+    "explodes": {
+        "replacement": "íxplóúds",
+        "case_insensitive": true
+    },
+    "explode": {
+        "replacement": "íxplóúd",
+        "case_insensitive": true
+    },
+    "requiring": {
+        "replacement": "ríkváíöríng",
+        "case_insensitive": true
+    },
+    "percent": {
+        "replacement": "pöörcént",
+        "case_insensitive": true
+    },
+    "half of": {
+        "replacement": "hälf óf",
+        "case_insensitive": true
+    },
+    "website": {
+        "replacement": "wébsáít",
+        "case_insensitive": true
+    },
+    " yet": {
+        "replacement": " jét",
+        "case_insensitive": true
+    },
+    "javascript": {
+        "replacement": "tsäváskrípt",
+        "case_insensitive": true
+    },
+    " in a ": {
+        "replacement": " ín éí ",
+        "case_insensitive": true
+    },
+    "rebuking": {
+        "replacement": "ríbjýkíng",
+        "case_insensitive": true
+    },
+    "infinity": {
+        "replacement": "ínfínítí",
+        "case_insensitive": true
+    },
+    "mango": {
+        "replacement": "mängóú",
+        "case_insensitive": true
+    },
+    "tory": {
+        "replacement": "torí",
+        "case_insensitive": true
+    },
+    "considered": {
+        "replacement": "kónsídörd",
+        "case_insensitive": true
+    },
+    "signature": {
+        "replacement": "sígnätsör",
+        "case_insensitive": true
+    },
+    " brother": {
+        "replacement": " bráthör",
+        "case_insensitive": true
+    },
+    "seeing": {
+        "replacement": "síí íng",
+        "case_insensitive": true
+    },
+    "masters": {
+        "replacement": "mästérs",
+        "case_insensitive": true
+    },
+    "seek": {
+        "replacement": "síík",
+        "case_insensitive": true
+    },
+    "seek out": {
+        "replacement": "síík áút",
+        "case_insensitive": true
+    },
+    "catches": {
+        "replacement": "kätsés",
+        "case_insensitive": true
+    },
+    "surprising": {
+        "replacement": "sárpráísíng",
+        "case_insensitive": true
+    },
+    "elaborate": {
+        "replacement": "íläböréít",
+        "case_insensitive": true
+    },
+    "up the stairs": {
+        "replacement": "áp tö stéérs",
+        "case_insensitive": true
+    },
+    "unfold": {
+        "replacement": "ánfóúld",
+        "case_insensitive": true
+    },
+    "comments": {
+        "replacement": "kámménts",
+        "case_insensitive": true
+    },
+    "I am now": {
+        "replacement": "áí äm náú",
+        "case_insensitive": true
+    },
+    "in the know": {
+        "replacement": "ín thö knóúw",
+        "case_insensitive": true
+    },
+    "impressive": {
+        "replacement": "ímpréssív",
+        "case_insensitive": true
+    },
+    "multiples": {
+        "replacement": "máltípöls",
+        "case_insensitive": true
+    },
+    "lived": {
+        "replacement": "lívd",
+        "case_insensitive": true
+    },
+    " lived": {
+        "replacement": " lívd",
+        "case_insensitive": true
+    },
+    "quite good": {
+        "replacement": "kváít gúúd",
+        "case_insensitive": true
+    },
+    "They’re": {
+        "replacement": "théör",
+        "case_insensitive": true
+    },
+    "Amsterdam": {
+        "replacement": "Ämstördäm",
+        "case_insensitive": true
+    },
+    "by a visit": {
+        "replacement": "báí éí vísít",
+        "case_insensitive": true
+    },
+    "typically": {
+        "replacement": "típíkälí",
+        "case_insensitive": true
+    },
+    "traveled": {
+        "replacement": "trävöld",
+        "case_insensitive": true
+    },
+    "amazing": {
+        "replacement": "äméísíng",
+        "case_insensitive": true
+    },
+    "respected": {
+        "replacement": "ríspéktíd",
+        "case_insensitive": true
+    },
+    "in person": {
+        "replacement": "ín pörsón",
+        "case_insensitive": true
+    },
+    "tamper": {
+        "replacement": "tämpör",
+        "case_insensitive": true
     }
 }

@@ -1,3 +1,7 @@
+# huuda // python edition // v0.004 // nov 9 2023
+# FlyingFathead (refactoring w/ ChaosWhisperer)
+# https://github.com/FlyingFathead
+
 import os
 import subprocess
 import json
@@ -19,10 +23,16 @@ def load_replacement_dict(json_file):
         data = json.load(f)
     return data
 
+# remove non-latin1 chars
+def strip_non_latin1(text):
+    return text.encode('ISO-8859-1', 'ignore').decode('ISO-8859-1')
+
 def replace_text(input_text, replacement_dict, replace_english):
     replaced_text = input_text  # Initialize with the original text
     if replace_english:
-        for word, info in replacement_dict.items():
+        # Sort keys by length, in descending order
+        for word in sorted(replacement_dict.keys(), key=len, reverse=True):
+            info = replacement_dict[word]
             replacement = info['replacement']
             flags = re.IGNORECASE if info['case_insensitive'] else 0
             escaped_word = re.escape(word)
@@ -37,6 +47,9 @@ def text_to_speech(text, voice, replacement_dict, blast_mode=False, replace_engl
     if not text.strip():
         print("Error: The text to be spoken is empty.")
         return
+
+    # Before encoding the text in the text_to_speech function
+    text = strip_non_latin1(text)
 
     # Encode the text to ISO-8859-1 (latin1)
     text = text.encode("ISO-8859-1")
@@ -68,12 +81,32 @@ def text_to_speech(text, voice, replacement_dict, blast_mode=False, replace_engl
 parser = argparse.ArgumentParser(description="Text-to-speech utility")
 parser.add_argument('--blast', action='store_true', help="Enable blast mode to increase volume")
 parser.add_argument('--voice', type=str, default="(voice_hy_fi_mv_diphone)", help="Voice for text-to-speech")
-parser.add_argument('--text', type=str, required=True, help="Text to speak")
+parser.add_argument('--text', '-t', '--t', type=str, required=False, help="Text to speak")
 parser.add_argument('--replacement_file', type=str, help="JSON file with word replacements")
 parser.add_argument('--english', '--eng', '--en', '--e', '--finglish', dest='replace_english', action='store_true',
                     help="Replace words when set (default is not to replace)")
+# Add a new argument for input file with multiple flags
+parser.add_argument('--inputfile', '--file', '-f', dest='inputfile', type=str, help="Text file to read text from")
 
 args = parser.parse_args()
+
+if not args.text and not args.inputfile:
+    print("Error: Either --text or --inputfile (or: --f) must be provided.")
+    exit(1)
+
+# If --inputfile is specified, read from the file
+if args.inputfile:
+    try:
+        with open(args.inputfile, 'r', encoding='utf-8') as f:
+            text = f.read()
+    except FileNotFoundError:
+        print(f"Error: File {args.inputfile} not found.")
+        exit(1)
+    except Exception as e:
+        print(f"Error reading file: {e}")
+        exit(1)
+else:
+    text = args.text  # Read from command line argument
 
 if not args.replace_english:
     print("English word replacement is disabled.")
@@ -88,4 +121,4 @@ else:
             print("No valid replacement file provided. English word replacement is disabled.")
             replacement_dict = {}
 
-text_to_speech(args.text, args.voice, replacement_dict, blast_mode=args.blast, replace_english=args.replace_english)
+text_to_speech(text, args.voice, replacement_dict, blast_mode=args.blast, replace_english=args.replace_english)
