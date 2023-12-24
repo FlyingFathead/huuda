@@ -33,8 +33,14 @@ python huuda.py --voice <voice_option> --text "Your text here"
 python huuda.py --file yourfile.txt
 ```
 
+Or, for English/Finglish
+```bash
+python huuda.py --finglish --text "It's very nice here."
+```
+
 # Options include:
 
+`--english`, `--eng`, `--en`, `--e`, `--finglish` to speak in English/Finglish instead of Finnish
 `--blast` to increase the volume.
 `--voice` to set the TTS voice.
 `--text` or `-t`to provide text directly.
