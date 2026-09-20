@@ -41,7 +41,7 @@ DEFAULT_REPLACEMENT_FILE = default_replacement_file()
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="huuda",
-        description="Huuda v0.1.0 - Finnish/Finglish command-line speech synthesis",
+        description="Huuda v0.1.1 - Finnish/Finglish command-line speech synthesis",
     )
     parser.add_argument("message", nargs="*", help="text to speak (positional form)")
     parser.add_argument("--text", "-t", "--t", help="text to speak")

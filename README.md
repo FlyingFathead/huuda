@@ -1,6 +1,6 @@
 # Huuda
 
-**Huuda v0.1.0** is a local command-line speech synthesizer built around Finnish speech engines and a deliberately hand-tuned **Finglish** pronunciation lexicon.
+**Huuda v0.1.1** is a local command-line speech synthesizer built around Finnish speech engines and a deliberately hand-tuned **Finglish** pronunciation lexicon.
 
 The original Huuda was a compact 2023 Python wrapper around Festival/Festvox Suopuhe, SoX and `play`. v0.1.0 keeps that character but replaces the fragile synchronous glue with bounded subprocess management, diagnostics, selectable playback backends, packaging, tests and an optional modern neural TTS backend.
 

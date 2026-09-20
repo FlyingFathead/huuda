@@ -6,7 +6,7 @@ def test_version(capsys):
         main(["--version"])
     except SystemExit as exc:
         assert exc.code == 0
-    assert "0.1.0" in capsys.readouterr().out
+    assert "0.1.1" in capsys.readouterr().out
 
 
 def test_dry_run_without_external_tts(capsys):

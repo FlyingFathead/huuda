@@ -1,5 +1,12 @@
 # Changelog
 
+## Huuda 0.1.1 - 2026-09-20
+
+Small Finglish lexicon update.
+
+- Added additional hand-tuned pronunciation entries.
+- No synthesis, playback, export, or CLI behavior changes.
+
 ## Huuda 0.1.0 - 2026-09-20
 
 First packaged release and a substantial modernization of the original 2023 script.
