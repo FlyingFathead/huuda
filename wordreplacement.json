@@ -43117,5 +43117,15 @@
     "versus": {
         "replacement": "vöösüs",
         "case_insensitive": true
+    },
+    "sophisticated": {
+        "replacement": "söfístíkéítéd",
+        "case_insensitive": true,
+        "global": true
+    },
+    "specifically want": {
+        "replacement": "spésífíklí vánt",
+        "case_insensitive": true,
+        "global": true
     }
 }
