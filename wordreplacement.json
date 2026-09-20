@@ -1,8 +1,4 @@
 {
-    "": {
-        "replacement": "",
-        "case_insensitive": true
-    },
     "the context": {
         "replacement": "thö kóntökst",
         "case_insensitive": true
@@ -43112,6 +43108,14 @@
     },
     "tamper": {
         "replacement": "tämpör",
+        "case_insensitive": true
+    },
+    "you want": {
+        "replacement": "júú vánt",
+        "case_insensitive": true
+    },
+    "versus": {
+        "replacement": "vöösüs",
         "case_insensitive": true
     }
 }
